@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "The Power of React in Modern Web Development",
+        "slug": "react-modern-web",
+        "author": "Jane Doe",
+        "publishedDate": "2025-03-12",
+        "excerpt": "React has become the cornerstone of frontend development. Here's why it matters.",
+        "tags": [
+            "React",
+            "JavaScript",
+            "Frontend"
+        ],
+        "coverImage": "https://i.ibb.co.com/4FxRbtg/cover-2.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Exploring Next.js 14: Features You Shouldn’t Miss",
+        "slug": "nextjs-14-features",
+        "author": "Mohammad Kamrul Hasan Sakib",
+        "publishedDate": "2025-04-01",
+        "excerpt": "Next.js 14 brings powerful new capabilities. This post breaks them down.",
+        "tags": [
+            "Next.js",
+            "SSR",
+            "Web Dev"
+        ],
+        "coverImage": "https://i.ibb.co.com/HtmQwbN/cover-5.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Top 10 JavaScript Tips for Clean Code",
+        "slug": "js-clean-code-tips",
+        "author": "Alex Smith",
+        "publishedDate": "2025-02-28",
+        "excerpt": "These 10 tips will help you write more maintainable JavaScript code.",
+        "tags": [
+            "JavaScript",
+            "Coding",
+            "Best Practices"
+        ],
+        "coverImage": "https://i.ibb.co.com/343Sgbv/author-2.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Understanding CSS Grid with Practical Examples",
+        "slug": "css-grid-examples",
+        "author": "Emily Chen",
+        "publishedDate": "2025-03-21",
+        "excerpt": "Learn how to use CSS Grid effectively to build responsive layouts.",
+        "tags": [
+            "CSS",
+            "Web Design",
+            "Grid"
+        ],
+        "coverImage": "https://i.ibb.co.com/7V1M2FY/author-3.jpg"
+    }
+]
